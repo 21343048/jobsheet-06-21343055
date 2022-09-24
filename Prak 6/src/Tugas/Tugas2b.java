@@ -1,3 +1,8 @@
+/*
+ * Nama : Muhamad Fathur Rahman
+ * NIM  : 21343055
+ * Prodi: Teknik Informatika
+ */
 package Tugas;
 
 import java.util.Scanner;
